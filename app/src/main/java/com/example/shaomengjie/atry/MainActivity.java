@@ -13,4 +13,10 @@ public class MainActivity extends AppCompatActivity {
     public void click(){
 
     }
+    public void click1(){
+
+    }
+    public void click2(){
+
+    }
 }
